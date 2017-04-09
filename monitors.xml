@@ -1,0 +1,60 @@
+<monitors version="1">
+  <configuration>
+      <clone>no</clone>
+      <output name="eDP-1">
+          <vendor>LGD</vendor>
+          <product>0x0521</product>
+          <serial>0x00000000</serial>
+      </output>
+      <output name="DP-1">
+      </output>
+      <output name="HDMI-1">
+      </output>
+      <output name="DP-2">
+      </output>
+      <output name="HDMI-2">
+      </output>
+      <output name="DP-2-1">
+          <vendor>DEL</vendor>
+          <product>0xa09a</product>
+          <serial>0x3337544c</serial>
+          <width>1920</width>
+          <height>1080</height>
+          <rate>60</rate>
+          <x>1920</x>
+          <y>0</y>
+          <rotation>left</rotation>
+          <reflect_x>no</reflect_x>
+          <reflect_y>no</reflect_y>
+          <primary>yes</primary>
+      </output>
+      <output name="DP-2-2">
+          <vendor>DEL</vendor>
+          <product>0xa09a</product>
+          <serial>0x35324742</serial>
+          <width>1920</width>
+          <height>1080</height>
+          <rate>60</rate>
+          <x>3000</x>
+          <y>0</y>
+          <rotation>left</rotation>
+          <reflect_x>no</reflect_x>
+          <reflect_y>no</reflect_y>
+          <primary>no</primary>
+      </output>
+      <output name="DP-2-3">
+          <vendor>DEL</vendor>
+          <product>0xa0da</product>
+          <serial>0x304b4c4c</serial>
+          <width>1920</width>
+          <height>1080</height>
+          <rate>60</rate>
+          <x>0</x>
+          <y>840</y>
+          <rotation>normal</rotation>
+          <reflect_x>no</reflect_x>
+          <reflect_y>no</reflect_y>
+          <primary>no</primary>
+      </output>
+  </configuration>
+</monitors>
