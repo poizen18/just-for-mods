@@ -148,6 +148,9 @@ RC="${BWHITE}"
 #default color
 DF='\[\e[0m\]'
 
+#you can use HC UC etc, for respective reasons
+#shamelessly copied some code from reddit users' and mix matched to my need
+#if it looks stupid but works, it ain't stupid.
 
 
 
